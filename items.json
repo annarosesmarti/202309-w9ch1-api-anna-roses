@@ -1,28 +1,8 @@
 {
-  "items": [
-    {
-      "id": 1,
-      "name": "Item 1"
-    },
-    {
-      "id": 2,
-      "name": "Item 2"
-    },
-    {
-      "id": 3,
-      "name": "Item 3"
-    },
-    {
-      "id": 4,
-      "name": "Item 4"
-    },
-    {
-      "id": 5,
-      "name": "Item 5"
-    },
-    {
-      "id": 6,
-      "name": "Item 6"
-    }
+  "films": [
+    { "id": 1, "title": "The Hunger Games", "year": "2012" },
+    { "id": 2, "title": "Catching Fire", "year": "2013" },
+    { "id": 3, "title": "Mockingjay - Part 1", "year": "2014" },
+    { "id": 4, "title": "Mockingjay - Part 2", "year": "2015" }
   ]
 }
