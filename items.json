@@ -4,49 +4,57 @@
       "id": 1,
       "title": "Harry Potter and the Sorcerer's Stone",
       "year": "2001",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-1.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-1.webp",
+      "isWatched": false
     },
     {
       "id": 2,
       "title": "Harry Potter and the Chamber of Secrets",
       "year": "2002",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-2.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-2.webp",
+      "isWatched": false
     },
     {
       "id": 3,
       "title": "Harry Potter and the Prisoner of Azkaban",
       "year": "2004",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-3.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-3.webp",
+      "isWatched": false
     },
     {
       "id": 4,
       "title": "Harry Potter and the Goblet of Fire",
       "year": "2005",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-4.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-4.webp",
+      "isWatched": false
     },
     {
       "id": 5,
       "title": "Harry Potter and the Order of the Phoenix",
       "year": "2007",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-5.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-5.webp",
+      "isWatched": false
     },
     {
       "id": 6,
       "title": "Harry Potter and the Half-Blood Prince",
       "year": "2009",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-6.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-6.webp",
+      "isWatched": false
     },
     {
       "id": 7,
       "title": "Harry Potter and the Deathly Hallows - Part 1",
       "year": "2010",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-7.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-7.webp",
+      "isWatched": false
     },
     {
       "id": 8,
       "title": "Harry Potter and the Deathly Hallows - Part 2",
       "year": "2011",
-      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-8.webp"
+      "image": "https://raw.githubusercontent.com/annarosesmarti/202309-w9ch1-api-anna-roses/main/images/film-8.webp",
+      "isWatched": false
     }
   ]
 }
